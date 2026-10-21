@@ -3,8 +3,8 @@ class Paperwatch < Formula
 
   desc "Automatically rename downloaded scientific papers using DOI/arXiv metadata"
   homepage "https://github.com/loukesio/paperwatch"
-  url "https://github.com/loukesio/paperwatch/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "99026d6a75ae8a80ca7fd343243ba9b8ecd98112168bf6f652b4f36759702da4"
+  url "https://github.com/loukesio/paperwatch/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "1aeb158f34a0201bb7b0b73d5c315252732982cf32300665986b9a7d106d38a2"
   license "MIT"
   head "https://github.com/loukesio/paperwatch.git", branch: "main"
 
